@@ -20,6 +20,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak7panwar&hide=html,css" />
 </a>
 <a href="https://github.com/deepak7panwar/deepak7panwar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=deepak7panwar&show_icons=true&theme=default&hide=contribs&line_height=32" alt="Deepak panwars GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=deepak7panwar&show_icons=true&line_height=32" alt="Deepak panwars GitHub Stats" />
 </a>
 
