@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Github Stats!
+<a href="https://github.com/deepak7panwar/deepak7panwar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak7panwar&hide=html,css" />
+</a>
+<a href="https://github.com/deepak7panwar/deepak7panwar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=deepak7panwar&show_icons=true&theme=default&hide=contribs&line_height=32" alt="Alapan's GitHub Stats" />
+</a>
+
