@@ -16,7 +16,7 @@
 
 
 ## My Github Stats!
-<a href="https://github.com/deepak7panwar/deepak7panwar" style="display:block">
+<a href="https://github.com/deepak7panwar/deepak7panwar" style="display:flex;width:100%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak7panwar&hide=html,css" "style="display:block"/>
 </a>
 <a href="https://github.com/deepak7panwar/deepak7panwar"  style="display:block">
