@@ -17,12 +17,12 @@
 
 ## My Github Stats!
 <a href="https://github.com/deepak7panwar/deepak7panwar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak7panwar&hide=html,css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak7panwar&hide=html,css" "style="display:block"/>
 </a>
 <a href="https://github.com/deepak7panwar/deepak7panwar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=deepak7panwar&show_icons=true&line_height=32" alt="Deepak panwars GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=deepak7panwar&show_icons=true&line_height=32" alt="Deepak panwars GitHub Stats" "style="display:block"/>
 </a>
 <a href="https://github.com/deepak7panwar/deepak7panwar">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak7panwar&layout=compact">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak7panwar&layout=compact" "style="display:block">
 </a>
 
