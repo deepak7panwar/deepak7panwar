@@ -22,7 +22,9 @@
 <a href="https://github.com/deepak7panwar/deepak7panwar"  style="display:block">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=deepak7panwar&show_icons=true&line_height=32" alt="Deepak panwars GitHub Stats" "style="display:block"/>
 </a>
+<!--
 <a href="https://github.com/deepak7panwar/deepak7panwar"  style="display:block">
  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=deepak7panwar">
 </a>
 
+-->
