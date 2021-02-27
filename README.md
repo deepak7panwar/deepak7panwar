@@ -22,4 +22,6 @@
 <a href="https://github.com/deepak7panwar/deepak7panwar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=deepak7panwar&show_icons=true&line_height=32" alt="Deepak panwars GitHub Stats" />
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak7panwar&layout=compact)](https://github.com/deepak7panwar/github-readme-stats)
+
 
